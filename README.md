@@ -1,3 +1,5 @@
+![Veducate Logo](https://raw.githubusercontent.com/HusainT/Veducate/master/Pictures/Logo.PNG)
+
 # Veducate
 Compressed educational video content for Viasat Community WiFi. Give the gift of learning to everyone!
 
